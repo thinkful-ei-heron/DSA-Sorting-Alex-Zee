@@ -110,3 +110,22 @@ The first two lists to be merged are [21] and [1]
     input: 14, 17, 13, 15, 19, 10, 3, 16, 9, 12
     Second partition, last-item pivot: 3,9,10,12,19,14,17,16,13,15
     Second partition, first-item pivot: 9, 3, 10, 13, 12, 14, 17, 15, 19, 16
+
+### Question 3
+  See QuickSort.js
+
+### Question 4
+  See MergeSort.js
+
+### Question 5
+  See LinkedList.js
+
+### Question 6
+  See BucketSort.js
+
+### Question 7
+  See RandomizeArray.js
+
+### Question 8
+  Since Numbers and Strings follow the same value conventions as one another, using the QuickSort function on an array of book titles will yield a correct result. With this in mind, it is viable to use the QuickSort function without any alterations as long as the array of book string titles are uniform (capital letters at beginning of string).
+  See SortBooks.js for implementation (or lack thereof).
